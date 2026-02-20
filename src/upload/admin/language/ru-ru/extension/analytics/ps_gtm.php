@@ -11,7 +11,7 @@ $_['text_group_ad_settings']        = 'Настройки рекламы';
 $_['text_group_analytics_settings'] = 'Настройки аналитики';
 $_['text_group_security_settings']  = 'Настройки безопасности';
 $_['text_group_advanced_settings']  = 'Расширенные настройки';
-$_['text_contact']                  = '<p>Для получения дополнительной помощи свяжитесь с нашей службой поддержки:</p><ul><li><strong>Контакт:</strong> <a href="mailto:%s">%s</a></li><li><strong>Документация:</strong> <a href="%s" target="_blank" rel="noopener noreferrer">Документация пользователя</a></li></ul>';
+$_['text_contact']                  = '<p>Для получения дополнительной помощи, пожалуйста, свяжитесь с нашей службой поддержки:</p><ul><li><strong>Контакт:</strong> <a href="mailto:%s">%s</a></li><li><strong>Документация:</strong> <a href="%s" target="_blank" rel="noopener noreferrer">Руководство пользователя</a></li></ul>';
 $_['text_gcm_info']                 = 'Для использования этой функции убедитесь, что у вас установлен баннер cookie. Это расширение по умолчанию устанавливает базовое состояние согласия, но баннер cookie отвечает за обновление согласия для разрешения сбора данных.';
 
 // Tab

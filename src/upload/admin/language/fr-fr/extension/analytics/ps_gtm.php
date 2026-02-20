@@ -11,7 +11,7 @@ $_['text_group_ad_settings']        = 'Paramètres des annonces';
 $_['text_group_analytics_settings'] = 'Paramètres des analyses';
 $_['text_group_security_settings']  = 'Paramètres de sécurité';
 $_['text_group_advanced_settings']  = 'Paramètres avancés';
-$_['text_contact']                  = '<p>Pour toute assistance supplémentaire, veuillez contacter notre équipe de support :</p><ul><li><strong>Contact :</strong> <a href="mailto:%s">%s</a></li><li><strong>Documentation :</strong> <a href="%s" target="_blank" rel="noopener noreferrer">Documentation de l\'utilisateur</a></li></ul>';
+$_['text_contact']                  = '<p>Pour toute assistance supplémentaire, veuillez contacter notre équipe de support :</p><ul><li><strong>Contact :</strong> <a href="mailto:%s">%s</a></li><li><strong>Documentation :</strong> <a href="%s" target="_blank" rel="noopener noreferrer">Documentation utilisateur</a></li></ul>';
 $_['text_gcm_info']                 = 'Pour utiliser cette fonctionnalité, assurez-vous d\'avoir installé un bandeau de cookies. Cette extension définit un état de consentement de base par défaut, mais le bandeau de cookies est responsable de la mise à jour du consentement pour permettre la collecte des données.';
 
 // Tab
