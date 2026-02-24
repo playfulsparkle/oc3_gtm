@@ -42,7 +42,7 @@ To use Consent Mode V2, you must install a separate **cookie consent banner** to
 - **URL Passthrough:** Enables URL Passthrough to help preserve tracking information when users navigate across pages.
 - **Multi-store Support:** Works seamlessly with OpenCart’s multi-store functionality, allowing easy integration across multiple stores.
 - **Compatibility:** Fully compatible with OpenCart 3.x+.
-- **Multilingual Support:** Ready for international use with languages including Čeština (cs-cz), Deutsch (de-de), English (GB) (en-gb), English (US) (en-us), Español (es-es), Français (fr-fr), Magyar (hu-hu), Italiano (it-it), Русский (ru-ru), Ελληνικά (el-GR), العربية (ar), Polski (pl-pl), and Slovenčina (sk-sk).
+- **Multilingual Support**: Ready for international use with languages including العربية (ar), Български (bg), 中文(简体) (zh-cn), 中文(繁體) (zh-tw), Čeština (cs-cz), English (UK) (en-gb), English (US) (en-us), Français (fr-fr), Deutsch (de-de), Ελληνικά (el-gr), Magyar (hu-hu), Italiano (it-it), 日本語 (ja), 한국어 (ko-kr), Polski (pl-pl), Português (Brasil) (pt-br), Русский (ru-ru), Slovenčina (sk-sk), Español (es-es), and Türkçe (tr-tr).
 
 ---
 
