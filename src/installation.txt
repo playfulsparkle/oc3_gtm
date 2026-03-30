@@ -83,17 +83,18 @@ Features
   functionality, allowing easy integration across multiple stores.
 - Compatibility: Fully compatible with OpenCart 3.x+.
 - Multilingual Support: Ready for international use with languages including
-  العربية (ar), Български (bg), 中文(简体) (zh-cn), 中文(繁體) (zh-tw),
-  Čeština (cs-cz), English (UK) (en-gb), English (US) (en-us), Français (fr-fr),
-  Deutsch (de-de), Ελληνικά (el-gr), Magyar (hu-hu), Italiano (it-it),
-  日本語 (ja), 한국어 (ko-kr), Polski (pl-pl), Português (Brasil) (pt-br),
-  Русский (ru-ru), Slovenčina (sk-sk), Español (es-es), and Türkçe (tr-tr).
+  العربية (ar), فارسی (fa-ir), Български (bg), 中文(简体) (zh-cn),
+  中文(繁體) (zh-tw), Čeština (cs-cz), English (UK) (en-gb),
+  English (US) (en-us), Français (fr-fr), Deutsch (de-de), Ελληνικά (el-gr),
+  Magyar (hu-hu), Italiano (it-it), 日本語 (ja), 한국어 (ko-kr), Polski (pl-pl),
+  Português (Brasil) (pt-br), Русский (ru-ru), Slovenčina (sk-sk),
+  Español (es-es), and Türkçe (tr-tr).
 
 For more information, visit the extension's GitHub page
-at https://github.com/playfulsparkle/oc3_gtm.git.
+at https://github.com/playfulsparkle/oc3_gtm.
 
 Demo frontend: https://opencart3.playfulsparkle.com/
-Demo backend: https://opencart3.playfulsparkle.com/admin/
+Demo backend: https://opencart3.playfulsparkle.com/admin/index.php?route=common/login&username=demo&password=demo&redirect=https%3A%2F%2Fopencart3.playfulsparkle.com%2Fadmin%2Findex.php%3Froute%3Dextension%2Fanalytics%2Fps_gtm%26amp%3Bstore_id%3D0
 
 Installation Instructions
 
@@ -112,5 +113,6 @@ Installation Instructions
 
 Support & Inquiries
 
-For assistance or inquiries related to this extension, please open an issue in
-the extension repository or contact us via email at support@playfulsparkle.com
+For assistance or inquiries related to this extension, please open an issue on
+this repository, visit our https://support.playfulsparkle.com support website,
+or contact us via email at support@playfulsparkle.com.

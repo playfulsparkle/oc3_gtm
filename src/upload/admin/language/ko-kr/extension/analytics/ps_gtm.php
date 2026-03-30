@@ -11,7 +11,7 @@ $_['text_group_ad_settings']        = '광고 설정';
 $_['text_group_analytics_settings'] = '분석 설정';
 $_['text_group_security_settings']  = '보안 설정';
 $_['text_group_advanced_settings']  = '고급 설정';
-$_['text_contact']                  = '<p>추가 도움이 필요하시면 지원팀에 문의해 주세요:</p><ul><li><strong>문의처:</strong> <a href="mailto:%s">%s</a></li><li><strong>문서:</strong> <a href="%s" target="_blank" rel="noopener noreferrer">사용자 설명서</a></li></ul>';
+$_['text_contact']                  = '<p>추가적인 도움이 필요하시면 당사의 지원 팀에 문의해 주시기 바랍니다.</p><ul><li><strong>지원 웹사이트:</strong> <a href="%1$s">%1$s</a></li><li><strong>GitHub 저장소:</strong> <a href="%2$s" target="_blank" rel="noopener noreferrer">%2$s</a></li><li><strong>지원 문의:</strong> <a href="mailto:%3$s">%3$s</a></li></ul>';
 $_['text_gcm_info']                 = '이 기능을 사용하려면 쿠키 배너가 설치되어 있어야 합니다. 이 확장 모듈은 기본적으로 기본 동의 상태를 설정하지만, 데이터 수집을 허용하기 위한 동의 업데이트는 쿠키 배너의 책임입니다.';
 
 // Tab

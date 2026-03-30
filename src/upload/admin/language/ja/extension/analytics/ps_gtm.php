@@ -11,7 +11,7 @@ $_['text_group_ad_settings']        = '広告設定';
 $_['text_group_analytics_settings'] = '分析設定';
 $_['text_group_security_settings']  = 'セキュリティ設定';
 $_['text_group_advanced_settings']  = '詳細設定';
-$_['text_contact']                  = '<p>さらにサポートが必要な場合は、サポートチームにお問い合わせください：</p><ul><li><strong>連絡先:</strong> <a href="mailto:%s">%s</a></li><li><strong>ドキュメント:</strong> <a href="%s" target="_blank" rel="noopener noreferrer">ユーザーマニュアル</a></li></ul>';
+$_['text_contact']                  = '<p>さらなるサポートが必要な場合は、弊社のサポートチームまでお問い合わせください。</p><ul><li><strong>サポートウェブサイト:</strong> <a href="%1$s">%1$s</a></li><li><strong>GitHub リポジトリ:</strong> <a href="%2$s" target="_blank" rel="noopener noreferrer">%2$s</a></li><li><strong>サポートへの連絡:</strong> <a href="mailto:%3$s">%3$s</a></li></ul>';
 $_['text_gcm_info']                 = 'この機能を使用するには、クッキーバナーがインストールされていることを確認してください。この拡張機能はデフォルトで基本的な同意状態を設定しますが、データ収集を許可するための同意の更新はクッキーバナーが行います。';
 
 // Tab

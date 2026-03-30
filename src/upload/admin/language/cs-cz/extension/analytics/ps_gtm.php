@@ -11,7 +11,7 @@ $_['text_group_ad_settings']        = 'Nastavení reklam';
 $_['text_group_analytics_settings'] = 'Nastavení analytiky';
 $_['text_group_security_settings']  = 'Nastavení zabezpečení';
 $_['text_group_advanced_settings']  = 'Pokročilá nastavení';
-$_['text_contact']                  = '<p>Pro další pomoc se prosím obraťte na náš tým podpory:</p><ul><li><strong>Kontakt:</strong> <a href="mailto:%s">%s</a></li><li><strong>Dokumentace:</strong> <a href="%s" target="_blank" rel="noopener noreferrer">Dokumentace pro uživatele</a></li></ul>';
+$_['text_contact']                  = '<p>Pro další pomoc se prosím obraťte na náš tým podpory:</p><ul><li><strong>Webová stránka podpory:</strong> <a href="%1$s">%1$s</a></li><li><strong>GitHub repozitář:</strong> <a href="%2$s" target="_blank" rel="noopener noreferrer">%2$s</a></li><li><strong>Kontaktovat podporu:</strong> <a href="mailto:%3$s">%3$s</a></li></ul>';
 $_['text_gcm_info']                 = 'Pro použití této funkce se ujistěte, že máte nainstalovaný banner pro soubory cookie. Tato rozšíření nastaví výchozí základní stav souhlasu, ale banner pro soubory cookie je zodpovědný za aktualizaci souhlasu, aby umožnil sběr dat.';
 
 // Tab

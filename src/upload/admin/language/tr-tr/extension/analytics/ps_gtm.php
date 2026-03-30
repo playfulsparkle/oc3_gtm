@@ -11,7 +11,7 @@ $_['text_group_ad_settings']        = 'Reklam Ayarları';
 $_['text_group_analytics_settings'] = 'Analiz Ayarları';
 $_['text_group_security_settings']  = 'Güvenlik Ayarları';
 $_['text_group_advanced_settings']  = 'Gelişmiş Ayarlar';
-$_['text_contact']                  = '<p>Daha fazla yardım için lütfen destek ekibimize ulaşın:</p><ul><li><strong>İletişim:</strong> <a href="mailto:%s">%s</a></li><li><strong>Dokümantasyon:</strong> <a href="%s" target="_blank" rel="noopener noreferrer">Kullanıcı Dokümantasyonu</a></li></ul>';
+$_['text_contact']                  = '<p>Daha fazla yardım için lütfen destek ekibimizle iletişime geçin:</p><ul><li><strong>Destek Web Sitesi:</strong> <a href="%1$s">%1$s</a></li><li><strong>GitHub Deposu:</strong> <a href="%2$s" target="_blank" rel="noopener noreferrer">%2$s</a></li><li><strong>Destekle İletişime Geçin:</strong> <a href="mailto:%3$s">%3$s</a></li></ul>';
 $_['text_gcm_info']                 = 'Bu özelliği kullanmak için bir çerez başlığının (cookie banner) yüklü olduğundan emin olun. Bu eklenti varsayılan olarak temel bir izin durumu ayarlar, ancak veri toplamaya izin vermek için izin durumunu güncellemek çerez başlığının sorumluluğundadır.';
 
 // Tab

@@ -11,7 +11,7 @@ $_['text_group_ad_settings']        = 'إعدادات الإعلانات';
 $_['text_group_analytics_settings'] = 'إعدادات التحليلات';
 $_['text_group_security_settings']  = 'إعدادات الأمان';
 $_['text_group_advanced_settings']  = 'إعدادات متقدمة';
-$_['text_contact']                  = '<p>للحصول على مزيد من المساعدة، يرجى التواصل مع فريق الدعم لدينا:</p><ul><li><strong>الاتصال:</strong> <a href="mailto:%s">%s</a></li><li><strong>التوثيق:</strong> <a href="%s" target="_blank" rel="noopener noreferrer">توثيق المستخدم</a></li></ul>';
+$_['text_contact']                  = '<p>للمزيد من المساعدة، يرجى التواصل مع فريق الدعم لدينا:</p><ul><li><strong>موقع الدعم:</strong> <a href="%1$s">%1$s</a></li><li><strong>مستودع GitHub:</strong> <a href="%2$s" target="_blank" rel="noopener noreferrer">%2$s</a></li><li><strong>الاتصال بالدعم:</strong> <a href="mailto:%3$s">%3$s</a></li></ul>';
 $_['text_gcm_info']                 = 'لاستخدام هذه الميزة، تأكد من تثبيت لافتة ملفات تعريف الارتباط. تحدد هذه الإضافة حالة موافقة أساسية افتراضيًا، لكن لافتة ملفات تعريف الارتباط مسؤولة عن تحديث الموافقة للسماح بجمع البيانات.';
 
 // Tab

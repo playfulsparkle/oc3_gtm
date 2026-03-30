@@ -11,7 +11,7 @@ $_['text_group_ad_settings']        = 'Configuraciones de anuncios';
 $_['text_group_analytics_settings'] = 'Configuraciones de análisis';
 $_['text_group_security_settings']  = 'Configuraciones de seguridad';
 $_['text_group_advanced_settings']  = 'Configuraciones avanzadas';
-$_['text_contact']                  = '<p>Para obtener más ayuda, por favor contacta a nuestro equipo de soporte:</p><ul><li><strong>Contacto:</strong> <a href="mailto:%s">%s</a></li><li><strong>Documentación:</strong> <a href="%s" target="_blank" rel="noopener noreferrer">Documentación para el Usuario</a></li></ul>';
+$_['text_contact']                  = '<p>Para obtener más ayuda, póngase en contacto con nuestro equipo de soporte:</p><ul><li><strong>Sitio web de soporte:</strong> <a href="%1$s">%1$s</a></li><li><strong>Repositorio de GitHub:</strong> <a href="%2$s" target="_blank" rel="noopener noreferrer">%2$s</a></li><li><strong>Contactar con soporte:</strong> <a href="mailto:%3$s">%3$s</a></li></ul>';
 $_['text_gcm_info']                 = 'Para utilizar esta función, asegúrese de tener instalado un banner de cookies. Esta extensión establece un estado básico de consentimiento de forma predeterminada, pero el banner de cookies es responsable de actualizar el consentimiento para permitir la recopilación de datos.';
 
 // Tab

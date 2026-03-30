@@ -2,14 +2,14 @@
 <!--
 This file is part of "Playful Sparkle - Google Tag Manager" project and subject to the terms
 and conditions defined in file "LICENSE", which is part of this source
-code package and also available on the project page: https://github.com/playfulsparkle/oc3_gtm.git
+code package and also available on the project page: https://github.com/playfulsparkle/oc3_gtm
 -->
 <modification>
     <name>Playful Sparkle - Google Tag Manager</name>
     <code>ps_gtm</code>
     <version>1.0.4</version>
     <author>Playful Sparkle</author>
-    <link>https://github.com/playfulsparkle/oc3_gtm.git</link>
+    <link>https://github.com/playfulsparkle/oc3_gtm</link>
     <file path="catalog/controller/common/header.php">
         <operation>
             <search><![CDATA[$data['analytics'] = array();]]></search>

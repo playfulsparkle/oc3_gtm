@@ -11,7 +11,7 @@ $_['text_group_ad_settings']        = '广告设置';
 $_['text_group_analytics_settings'] = '分析设置';
 $_['text_group_security_settings']  = '安全设置';
 $_['text_group_advanced_settings']  = '高级设置';
-$_['text_contact']                  = '<p>如需进一步帮助，请联系我们的支持团队：</p><ul><li><strong>联系方式：</strong> <a href="mailto:%s">%s</a></li><li><strong>文档：</strong> <a href="%s" target="_blank" rel="noopener noreferrer">用户文档</a></li></ul>';
+$_['text_contact']                  = '<p>如需进一步协助，请联系我们的支持团队：</p><ul><li><strong>支持网站：</strong> <a href="%1$s">%1$s</a></li><li><strong>GitHub 仓库：</strong> <a href="%2$s" target="_blank" rel="noopener noreferrer">%2$s</a></li><li><strong>联系支持：</strong> <a href="mailto:%3$s">%3$s</a></li></ul>';
 $_['text_gcm_info']                 = '要使用此功能，请确保已安装 Cookie 横幅。此扩展默认设置基本同意状态，但 Cookie 横幅负责更新同意状态以允许数据收集。';
 
 // Tab

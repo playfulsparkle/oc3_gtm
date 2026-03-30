@@ -11,7 +11,7 @@ $_['text_group_ad_settings']        = 'Ρυθμίσεις Διαφημίσεων
 $_['text_group_analytics_settings'] = 'Ρυθμίσεις Analytics';
 $_['text_group_security_settings']  = 'Ρυθμίσεις Ασφαλείας';
 $_['text_group_advanced_settings']  = 'Προηγμένες Ρυθμίσεις';
-$_['text_contact']                  = '<p>Για περαιτέρω βοήθεια, επικοινωνήστε με την ομάδα υποστήριξής μας:</p><ul><li><strong>Επικοινωνία:</strong> <a href="mailto:%s">%s</a></li><li><strong>Τεκμηρίωση:</strong> <a href="%s" target="_blank" rel="noopener noreferrer">Τεκμηρίωση χρήστη</a></li></ul>';
+$_['text_contact']                  = '<p>Για περαιτέρω βοήθεια, επικοινωνήστε με την ομάδα υποστήριξής μας:</p><ul><li><strong>Ιστότοπος Υποστήριξης:</strong> <a href="%1$s">%1$s</a></li><li><strong>Αποθετήριο GitHub:</strong> <a href="%2$s" target="_blank" rel="noopener noreferrer">%2$s</a></li><li><strong>Επικοινωνία με την Υποστήριξη:</strong> <a href="mailto:%3$s">%3$s</a></li></ul>';
 $_['text_gcm_info']                 = 'Για να χρησιμοποιήσετε αυτήν τη λειτουργία, βεβαιωθείτε ότι έχετε εγκατεστημένο ένα banner cookies. Αυτή η επέκταση ορίζει μια βασική κατάσταση συναίνεσης από προεπιλογή, αλλά το banner cookies είναι υπεύθυνο για την ενημέρωση της συναίνεσης ώστε να επιτρέπεται η συλλογή δεδομένων.';
 
 // Tab

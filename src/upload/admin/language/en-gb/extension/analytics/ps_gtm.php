@@ -11,7 +11,7 @@ $_['text_group_ad_settings']        = 'Ad Settings';
 $_['text_group_analytics_settings'] = 'Analytics Settings';
 $_['text_group_security_settings']  = 'Security Settings';
 $_['text_group_advanced_settings']  = 'Advanced Settings';
-$_['text_contact']                  = '<p>For further assistance, please reach out to our support team:</p><ul><li><strong>Contact:</strong> <a href="mailto:%s">%s</a></li><li><strong>Documentation:</strong> <a href="%s" target="_blank" rel="noopener noreferrer">User Documentation</a></li></ul>';
+$_['text_contact']                  = '<p>For further assistance, please reach out to our support team:</p><ul><li><strong>Support Website:</strong> <a href="%1$s">%1$s</a></li><li><strong>GitHub Repository:</strong> <a href="%2$s" target="_blank" rel="noopener noreferrer">%2$s</a></li><li><strong>Contact Support:</strong> <a href="mailto:%3$s">%3$s</a></li></ul>';
 $_['text_gcm_info']                 = 'To use this feature, make sure you have a cookie banner installed. This extension sets a basic consent state by default, but the cookie banner is responsible for updating consent to allow data collection.';
 
 // Tab
