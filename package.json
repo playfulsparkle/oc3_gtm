@@ -9,9 +9,11 @@
   "keywords": [
     "opencart",
     "opencart3",
+    "opencart-extension",
     "playfulsparkle",
     "gtm",
-    "google tag manager"
+    "google-tag-manager",
+    "consent-mode"
   ],
   "author": "zsoltoroszlany82 <zsolt.oroszlany@playfulsparkle.com>",
   "license": "GPL",
